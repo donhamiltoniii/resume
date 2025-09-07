@@ -11,7 +11,7 @@
 
 ### 📄 **[Download Resume PDF](./resume.pdf)** 📄
 
-*Last updated: [Auto-generated timestamp]*
+*Last updated: September 06, 2025 at 08:59 PM*
 
 </div>
 
