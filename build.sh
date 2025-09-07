@@ -131,7 +131,7 @@ if pandoc "$RESUME_SOURCE" \
     --variable linkcolor=blue \
     --variable urlcolor=blue \
     --variable toccolor=blue \
-    --highlight-style=github \
+    --highlight-style=tango \
     --standalone \
     -o "$RESUME_PDF"; then
     print_success "PDF generated successfully: $RESUME_PDF"
