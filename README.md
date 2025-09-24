@@ -95,10 +95,6 @@ console.log(me.sayHi())
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donhamiltoniii&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=donhamiltoniii&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
