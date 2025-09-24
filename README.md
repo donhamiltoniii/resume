@@ -48,8 +48,6 @@ console.log(me.sayHi())
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -86,8 +84,6 @@ console.log(me.sayHi())
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
 
 ---
 
@@ -126,8 +122,6 @@ console.log(me.sayHi())
 
 ## 📫 Let's Connect!
 
-<div align="center">
-
 I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on interesting projects!
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofildonhamiltoniiie)
@@ -139,15 +133,9 @@ I'm always excited to connect with fellow developers, discuss new technologies, 
 ### 🔍 Currently exploring:
 `AI/ML Integration` • `Cloud-Native Patterns` • `Developer Experience` • `Technical Leadership`
 
-</div>
-
 ---
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=2F81F7&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/yourusername?style=social)
 
 **⭐ If you find my work interesting, don't forget to star some repositories! ⭐**
-
-</div>
