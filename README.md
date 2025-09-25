@@ -173,10 +173,9 @@ tech_stack:
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-### 🎓 Education
-**BFA in Photography** | The Ohio State University | 2011
+### BFA in Photography | The Ohio State University | 2011
 
 ---
 
