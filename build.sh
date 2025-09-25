@@ -153,7 +153,7 @@ print_header "Updating README.md with current timestamp..."
 if [ -f "$README_FILE" ]; then
     # Update the timestamp in README
     CURRENT_DATE=$(date +"%B %d, %Y at %I:%M %p")
-    sed -i.bak "s/\*Last updated: \[Auto-generated timestamp\]\*/\*Last updated: $CURRENT_DATE\*/" "$README_FILE"
+    sed -i.bak "s/\*Last updated: .*\*/\*Last updated: $CURRENT_DATE\*/" "$README_FILE"
     print_status "README.md timestamp updated"
 else
     print_warning "README.md not found. Please ensure you have the README template."
