@@ -194,7 +194,7 @@ I'm always excited to connect with fellow developers, discuss new technologies, 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=2F81F7&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=donhamiltoniii&color=2F81F7&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/donhamiltoniii?style=social)
 
 **⭐ If you find my work interesting, don't forget to star some repositories! ⭐**
