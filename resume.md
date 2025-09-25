@@ -14,13 +14,13 @@ Detail-oriented software developer focused on Test Driven Development (TDD) with
 
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, Go, Bash, SQL  
-**Frontend:** React, NextJS, Vue.js, HTML5, CSS3, Tailwind CSS, SASS  
-**Backend:** Node.js, Express.js  
-**Databases:** PostgreSQL, MongoDB, Redis, MySQL, SQLite  
-**DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins  
-**Tools:** Git, Linux, VS Code, Vim, Postman, Docker Compose  
-**Testing:** Jest, Vitest, Playwright, Unit Testing, Integration Testing  
+**Languages:** JavaScript, TypeScript, Go, Bash, SQL
+**Frontend:** React, NextJS, Vue.js, HTML5, CSS3, Tailwind CSS, SASS
+**Backend:** Node.js, Express.js
+**Databases:** PostgreSQL, MongoDB, Redis, MySQL, SQLite
+**DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins
+**Tools:** Git, Linux, VS Code, Vim, Postman, Docker Compose
+**Testing:** Jest, Vitest, Playwright, Unit Testing, Integration Testing
 
 ---
 
@@ -28,22 +28,22 @@ Detail-oriented software developer focused on Test Driven Development (TDD) with
 
 ### Staff Software Engineer, Tech Lead, Gap Inc.; Columbus, Ohio | 2024 – present
 
-- Developed innovative tools for building a comprehensive component library, enhancing team productivity.  
-- Maintained the code base and build pipelines, ensuring high-quality software delivery.  
-- Led a software team to achieve sprint and quarterly goals, fostering collaboration and accountability.  
+- Developed innovative tools for building a comprehensive component library, enhancing team productivity.
+- Maintained the code base and build pipelines, ensuring high-quality software delivery.
+- Led a software team to achieve sprint and quarterly goals, fostering collaboration and accountability.
 - Provided mentorship and education on best practices through mob and pair programming sessions.
 
 ### Senior Software Engineer, NetJets; Columbus, Ohio | 2023 – 2024
 
-- Crafted and enhanced the technological backbone for private aviation services at NetJets.  
-- Collaborated with cross-functional teams to develop efficient and innovative solutions.  
-- Provided mentorship to junior engineers, fostering a culture of growth and knowledge sharing.  
+- Crafted and enhanced the technological backbone for private aviation services at NetJets.
+- Collaborated with cross-functional teams to develop efficient and innovative solutions.
+- Provided mentorship to junior engineers, fostering a culture of growth and knowledge sharing.
 - Built a new platform for internal services, streamlining operations and improving service delivery.
 
 ### Senior Software Engineer, WillowTree; Columbus, Ohio | 2019 – 2023
 
-- Collaborated with cross-functional teams to develop enterprise-level software for industry leaders.  
-- Employed agile methodologies to ensure timely delivery of projects to clients.  
+- Collaborated with cross-functional teams to develop enterprise-level software for industry leaders.
+- Employed agile methodologies to ensure timely delivery of projects to clients.
 - Leveraged cutting-edge technology to meet diverse client needs effectively.
 
 #### National Basketball Association
@@ -76,9 +76,9 @@ Detail-oriented software developer focused on Test Driven Development (TDD) with
 
 ### Lead Instructor / Agile Coach, We Can Code IT; Columbus, Ohio | 2017 – 2019
 
-- Led cohorts through an accelerated program in JavaScript and Java, emphasizing Test Driven Design.  
-- Developed and prepared curriculum, exercises, and projects to enhance student learning.  
-- Guided students in live-coding sessions, simplifying complex web application concepts.  
+- Led cohorts through an accelerated program in JavaScript and Java, emphasizing Test Driven Design.
+- Developed and prepared curriculum, exercises, and projects to enhance student learning.
+- Guided students in live-coding sessions, simplifying complex web application concepts.
 - Successfully led a team to create an application deployed for a local food pantry, showcasing practical skills.
 
 ### Digital Creative Specialist, A & R Creative Group; Columbus, Ohio | 2014 – 2017
@@ -92,14 +92,14 @@ Detail-oriented software developer focused on Test Driven Development (TDD) with
 
 ## Education
 
-**Bachelor's of Fine Arts | Photography**  
+**Bachelor's of Fine Arts | Photography**
 The Ohio State University | 2011
 
 ---
 
 ## Additional Information
 
-**Languages:** English (Native), Spanish (Proficient)  
+**Languages:** English (Native), Spanish (Proficient)
 **Interests:** Open source contributing, technical writing, Homelabbing
 
 ---
