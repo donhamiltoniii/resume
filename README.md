@@ -102,10 +102,78 @@ console.log(me.sayHi())
 
 ## 💼 Professional Experience
 
-### 🏢 Staff Software Engineer | Gap Inc.
-**📅 April 2024 - Present**
+```yaml
+position: Staff Software Engineer
+company: Gap Inc.
+tenure: April 2024 - Present
+tech_stack: 
+  - TypeScript
+  - NextJS
+  - Kubernetes
+  - ArgoCD
 
-**💻 Tech Stack:** `TypeScript` `NextJS` `Kubernetes`
+---
+
+position: Senior Software Engineer
+company: NetJets
+tenure: July 2023 - May 2024
+tech_stack: 
+  - TypeScript
+  - NextJS
+  - React Query
+  - Vite
+  - Vitest
+  - SQL
+
+---
+
+position: Senior Software Engineer
+company: WillowTree
+tenure: December 2019 - May 2023
+tech_stack: 
+  - TypeScript
+  - ReactJS
+  - VueJS
+  - Jest
+  - MongoDB
+  - PostgreSQL
+  - SQL
+
+---
+
+position: Lead Instructor
+company: We Can Code IT
+tenure: May 2017 - Dec 2019
+tech_stack:
+  - JavaScript
+  - TypeScript
+  - ReactJS
+  - VueJS
+  - Gatsby
+  - Jest
+  - MongoDB
+  - PostgreSQL
+  - SQL
+  - Netlify
+
+---
+
+position: Digital Creative Specialist
+company: A&R Creative Group
+tenure: September 2014 - April 2017
+tech_stack:
+  - JavaScript
+  - TypeScript
+  - ReactJS
+  - VueJS
+  - Gatsby
+  - Jest
+  - MongoDB
+  - PostgreSQL
+  - SQL
+  - Netlify
+
+```
 
 ---
 

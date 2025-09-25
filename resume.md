@@ -28,41 +28,65 @@ Detail-oriented software developer focused on Test Driven Development (TDD) with
 
 ### Staff Software Engineer, Tech Lead, Gap Inc.; Columbus, Ohio | 2024 – present
 
-Develop new tools to build component library. Maintain code base and build pipelines. Lead software team to complete sprint and quarterly goals. Assist in capacity planning and team assignment. Mob and pair with team to complete goals, provide mentorship and education on best practices.
+- Developed innovative tools for building a comprehensive component library, enhancing team productivity.  
+- Maintained the code base and build pipelines, ensuring high-quality software delivery.  
+- Led a software team to achieve sprint and quarterly goals, fostering collaboration and accountability.  
+- Provided mentorship and education on best practices through mob and pair programming sessions.
 
 ### Senior Software Engineer, NetJets; Columbus, Ohio | 2023 – 2024
 
-Craft and enhance the technological backbone of private aviation services. Collaborate closely with cross-functional teams. Contribute to the creation of efficient and innovative solutions. Provide mentorship to junior engineers. Build new platform for internal services.
+- Crafted and enhanced the technological backbone for private aviation services at NetJets.  
+- Collaborated with cross-functional teams to develop efficient and innovative solutions.  
+- Provided mentorship to junior engineers, fostering a culture of growth and knowledge sharing.  
+- Built a new platform for internal services, streamlining operations and improving service delivery.
 
 ### Senior Software Engineer, WillowTree; Columbus, Ohio | 2019 – 2023
 
+- Collaborated with cross-functional teams to develop enterprise-level software for industry leaders.  
+- Employed agile methodologies to ensure timely delivery of projects to clients.  
+- Leveraged cutting-edge technology to meet diverse client needs effectively.
+
 #### National Basketball Association
 
-Lead internal development team and implemented testing strategies. Identified and fixed critical bugs before launch. Built tooling to mock API endpoints for simplified testing.
+- Lead internal development team and implemented testing strategies.
+- Identified and fixed critical bugs before launch.
+- Built tooling to mock API endpoints for simplified testing.
 
 #### Wyndham Hotels
 
-Built infrastructure for booking accommodations, assisted in building new checkout system, and unified existing applications.
+- Built infrastructure for booking accommodations.
+- Assisted in building new checkout system.
+- Unified existing applications.
 
 #### Ohio Liquor Agency
 
-Assisted in building a brand new platform and assisted in bug and testing processes.
+- Assisted in building a brand new platform.
+- Assisted in bug and testing processes.
 
 #### Blue Cross Insurance
 
-Lead a development team that assisted in building a new platform, educated juniors, organized code reviews, and implemented testing strategy.
+- Lead a development team that assisted in building a new platform.
+- Mentored newer developers.
+- Organized code reviews.
+- Implemented testing strategy.
 
 #### Mizuho Financial Group
 
-Built tooling to automate content migration.
+- Built tooling to automate content migration.
 
 ### Lead Instructor / Agile Coach, We Can Code IT; Columbus, Ohio | 2017 – 2019
 
-Lead cohorts through an accelerated program based in both JavaScript and Java and focused on Test Driven Development. Develop and prepare curriculum, exercises, and projects. Develop reference applications and lead students in live-coding examples of complex concepts dealing with developing web applications. Introduce students to agile practices, Scrum, and iterative work ow. Most notably lead a team of students to develop an application that was deployed for use at a local food pantry.
+- Led cohorts through an accelerated program in JavaScript and Java, emphasizing Test Driven Design.  
+- Developed and prepared curriculum, exercises, and projects to enhance student learning.  
+- Guided students in live-coding sessions, simplifying complex web application concepts.  
+- Successfully led a team to create an application deployed for a local food pantry, showcasing practical skills.
 
-### Software Developer, A & R Creative Group; Columbus, Ohio | 2014 – 2017
+### Digital Creative Specialist, A & R Creative Group; Columbus, Ohio | 2014 – 2017
 
-Designed, developed, created, and maintained all websites for all companies under the A&R umbrella. Handled updates, photographs, and content generation for all sites. Also worked as a photographer and graphic designer to create advertisements and miscellaneous print work.
+- Collaborated with a diverse team to complete projects and develop brands, ensuring quality work delivered on time. 
+- Delegated projects and oversaw progress, enhancing team efficiency and project management. 
+- Designed, developed, and maintained websites for all companies under the A&R umbrella, handling updates and content generation. 
+- Utilized photography and graphic design skills to create advertisements and print materials, contributing to brand visibility.
 
 ---
 
