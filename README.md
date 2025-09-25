@@ -163,15 +163,11 @@ company: A&R Creative Group
 tenure: September 2014 - April 2017
 tech_stack:
   - JavaScript
-  - TypeScript
-  - ReactJS
-  - VueJS
-  - Gatsby
-  - Jest
-  - MongoDB
-  - PostgreSQL
-  - SQL
-  - Netlify
+  - PHP
+  - Jasmine
+  - MySQL
+  - Linux
+  - cPanel
 
 ```
 
