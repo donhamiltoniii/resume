@@ -14,13 +14,13 @@ Detail-oriented software developer focused on Test Driven Development (TDD) with
 
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, Go, Bash, SQL
-**Frontend:** React, NextJS, Vue.js, HTML5, CSS3, Tailwind CSS, SASS
-**Backend:** Node.js, Express.js
-**Databases:** PostgreSQL, MongoDB, Redis, MySQL, SQLite
-**DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins
-**Tools:** Git, Linux, VS Code, Vim, Postman, Docker Compose
-**Testing:** Jest, Vitest, Playwright, Unit Testing, Integration Testing
+- **Languages:** JavaScript, TypeScript, Go, Bash, SQL
+- **Frontend:** React, NextJS, Vue.js, HTML5, CSS3, Tailwind CSS, SASS
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB, Redis, MySQL, SQLite
+- **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins
+- **Tools:** Git, Linux, VS Code, Vim, Postman, Docker Compose
+- **Testing:** Jest, Vitest, Playwright, Unit Testing, Integration Testing
 
 ---
 
