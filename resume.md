@@ -2,7 +2,7 @@
 
 **Software Developer | Columbus, OH**
 
-📧 donhamiltoniii@pm.me | 🔗 [LinkedIn](https://linkedin.com/in/donhamiltoniii) | 💻 [GitHub](https://github.com/donhamiltoniii) | 🌐 [Portfolio](https://dondon.dev)
+📧 <donhamiltoniii@pm.me> | 🔗 [LinkedIn](https://linkedin.com/in/donhamiltoniii) | 💻 [GitHub](https://github.com/donhamiltoniii) | 🌐 [Portfolio](https://dondon.dev)
 
 ---
 
@@ -83,9 +83,9 @@ Detail-oriented software developer focused on Test Driven Development (TDD) with
 
 ### Digital Creative Specialist, A & R Creative Group; Columbus, Ohio | 2014 – 2017
 
-- Collaborated with a diverse team to complete projects and develop brands, ensuring quality work delivered on time. 
-- Delegated projects and oversaw progress, enhancing team efficiency and project management. 
-- Designed, developed, and maintained websites for all companies under the A&R umbrella, handling updates and content generation. 
+- Collaborated with a diverse team to complete projects and develop brands, ensuring quality work delivered on time.
+- Delegated projects and oversaw progress, enhancing team efficiency and project management.
+- Designed, developed, and maintained websites for all companies under the A&R umbrella, handling updates and content generation.
 - Utilized photography and graphic design skills to create advertisements and print materials, contributing to brand visibility.
 
 ---

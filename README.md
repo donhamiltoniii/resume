@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there! 👋 I'm Don Hamilton III
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Engineer;DevOps+Enthusiast;Problem+Solver&center=true&size=30&color=2F81F7)
@@ -9,11 +7,9 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donhamiltoniii@pm.me)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://dondon.dev)
 
-### 📄 **[Download Resume PDF](./resume.pdf)** 📄
+## 📄 **[Download Resume PDF](./resume.pdf)** 📄
 
-*Last updated: September 25, 2025 at 11:15 AM*
-
-</div>
+*Last updated: September 25, 2025 at 08:18 PM*
 
 ---
 
@@ -49,13 +45,14 @@ console.log(me.sayHi())
 ## 🛠️ Technology Stack
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -64,22 +61,26 @@ console.log(me.sayHi())
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### DevOps & Cloud
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
 ### Tools & Others
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -103,71 +104,60 @@ console.log(me.sayHi())
 ## 💼 Professional Experience
 
 ```yaml
-position: Staff Software Engineer
-company: Gap Inc.
-tenure: April 2024 - Present
-tech_stack: 
-  - TypeScript
-  - NextJS
-  - Kubernetes
-  - ArgoCD
+experience:
+  - role:
+      position: Staff Software Engineer
+      company: Gap Inc.
+      tenure: April 2024 - Present
+      achievements:
+        - Developed innovative tools for building a comprehensive component library, enhancing team productivity.
+        - Maintained the code base and build pipelines, ensuring high-quality software delivery.
+        - Led a software team to achieve sprint and quarterly goals, fostering collaboration and accountability.
+        - Provided mentorship and education on best practices through mob and pair programming sessions.
+      tech_stack: [ TypeScript, NextJS, Jest, Kubernetes, ArgoCD ]
 
----
+  - role:
+      position: Senior Software Engineer
+      company: NetJets
+      tenure: July 2023 - May 2024
+      achievements:
+        - Crafted and enhanced the technological backbone for private aviation services at NetJets.
+        - Collaborated with cross-functional teams to develop efficient and innovative solutions.
+        - Provided mentorship to junior engineers, fostering a culture of growth and knowledge sharing.
+        - Built a new platform for internal services, streamlining operations and improving service delivery.
+      tech_stack: [ TypeScript, NextJS, React Query, Vite, Vitest, SQL]
 
-position: Senior Software Engineer
-company: NetJets
-tenure: July 2023 - May 2024
-tech_stack: 
-  - TypeScript
-  - NextJS
-  - React Query
-  - Vite
-  - Vitest
-  - SQL
+  - role:
+      position: Senior Software Engineer
+      company: WillowTree
+      tenure: December 2019 - May 2023
+      achievements:
+        - Collaborated with cross-functional teams to develop enterprise-level software for industry leaders.
+        - Employed agile methodologies to ensure timely delivery of projects to clients.
+        - Leveraged cutting-edge technology to meet diverse client needs effectively.
+      tech_stack: [ TypeScript, ReactJS, VueJS, Jest, SQL, MongoDB, PostgreSQL ]
 
----
+  - role:
+      position: Lead Instructor
+      company: We Can Code IT
+      tenure: May 2017 - Dec 2019
+      achievements:
+        - Led cohorts through an accelerated program in JavaScript and Java, emphasizing Test Driven Design.
+        - Developed and prepared curriculum, exercises, and projects to enhance student learning.
+        - Guided students in live-coding sessions, simplifying complex web application concepts.
+        - Successfully led a team to create an application deployed for a local food pantry, showcasing practical skills.
+      tech_stack: [ JavaScript, TypeScript, ReactJS, VueJS, Gatsby, Jest, MongoDB, PostgreSQL, SQL, Netlify ]
 
-position: Senior Software Engineer
-company: WillowTree
-tenure: December 2019 - May 2023
-tech_stack: 
-  - TypeScript
-  - ReactJS
-  - VueJS
-  - Jest
-  - MongoDB
-  - PostgreSQL
-  - SQL
-
----
-
-position: Lead Instructor
-company: We Can Code IT
-tenure: May 2017 - Dec 2019
-tech_stack:
-  - JavaScript
-  - TypeScript
-  - ReactJS
-  - VueJS
-  - Gatsby
-  - Jest
-  - MongoDB
-  - PostgreSQL
-  - SQL
-  - Netlify
-
----
-
-position: Digital Creative Specialist
-company: A&R Creative Group
-tenure: September 2014 - April 2017
-tech_stack:
-  - JavaScript
-  - PHP
-  - Jasmine
-  - MySQL
-  - Linux
-  - cPanel
+  - role:
+      position: Digital Creative Specialist
+      company: A&R Creative Group
+      tenure: September 2014 - April 2017
+      achievements:
+        - Collaborated with a diverse team to complete projects and develop brands, ensuring quality work delivered on time.
+        - Delegated projects and oversaw progress, enhancing team efficiency and project management.
+        - Designed, developed, and maintained websites for all companies under the A&R umbrella, handling updates and content generation.
+        - Utilized photography and graphic design skills to create advertisements and print materials, contributing to brand visibility.
+      tech_stack: [ JavaScript, PHP, Jasmine, MySQL, Linux, cPanel ]
 
 ```
 
@@ -179,17 +169,19 @@ tech_stack:
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on interesting projects!
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofildonhamiltoniiie)
 [![Email](https://img.shields.io/badge/-Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donhamiltoniii@pm.me)
 
-### 💬 Ask me about:
+### 💬 Ask me about
+
 `Full-stack Development` • `DevOps Practices` • `System Architecture` • `Open Source` • `Career Growth`
 
-### 🔍 Currently exploring:
+### 🔍 Currently exploring
+
 `AI/ML Integration` • `Cloud-Native Patterns` • `Developer Experience` • `Technical Leadership`
 
 ---
