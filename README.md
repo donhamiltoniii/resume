@@ -11,7 +11,7 @@
 
 ### 📄 **[Download Resume PDF](./resume.pdf)** 📄
 
-*Last updated: September 25, 2025 at 11:15 AM*
+*Last updated: October 07, 2025 at 07:32 AM*
 
 </div>
 
@@ -25,14 +25,14 @@ Experienced software developer with 15 years of expertise in full-stack developm
 class Developer {
     constructor() {
         this.name = "Don Hamilton III"
-        self.role = "Software Developer"
-        self.location = "Columbus, OH"
-        self.languages = ["JavaScript", "TypeScript", "Go", "Bash"]
-        self.frameworks = ["React", "Vue.js", "Node.js", "Express"]
-        self.tools = ["Docker", "Kubernetes", "Git"]
-        self.currentFocus = "Cloud Architecture & DevOps"
-        self.learning = "AI/ML Integration"
-        self.funFact = "I'm a new dad! 👨‍🍼"
+        this.role = "Software Developer"
+        this.location = "Columbus, OH"
+        this.languages = ["JavaScript", "TypeScript", "Go", "Bash"]
+        this.frameworks = ["React", "Vue.js", "Node.js", "Express"]
+        this.tools = ["Docker", "Kubernetes", "Git"]
+        this.currentFocus = "Cloud Architecture & DevOps"
+        this.learning = "AI/ML Integration"
+        this.funFact = "I'm a new dad! 👨‍🍼"
     }
 
     sayHi() {
