@@ -10,7 +10,7 @@ Staff Software Engineer and technical leader specializing in Test Driven Develop
 ---
 
 ## Technical Skills
-- **Languages:** JavaScript, TypeScript, Go, Bash, SQL
+- **Languages:** JavaScript, TypeScript, Bash, SQL
 - **Frontend:** React, NextJS, Vue.js, HTML5, CSS3, Tailwind CSS, SASS
 - **Backend:** Node.js, Express.js
 - **Databases:** PostgreSQL, MongoDB, Redis, MySQL, SQLite

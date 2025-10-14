@@ -9,7 +9,7 @@
 
 ## 📄 **[Download Resume PDF](./resume.pdf)** 📄
 
-*Last updated: October 08, 2025 at 07:32 AM*
+*Last updated: October 14, 2025 at 11:19 AM*
 
 </div>
 
